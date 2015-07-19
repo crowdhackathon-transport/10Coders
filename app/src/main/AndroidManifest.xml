@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gkcreate.athenstour">
+
+    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_only_small_trans"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyAn3f5gsmLwsybuMR-El9k6es33DojGigE" />
+
+        <activity
+            android:name="com.gkcreate.athenstour.ActMain"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.gkcreate.athenstour.ActTourDetails"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.gkcreate.athenstour.ActCategoryList"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.gkcreate.athenstour.BeaconActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.gkcreate.athenstour.ActDetails"
+            android:screenOrientation="portrait"
+            ></activity>
+
+        <activity android:name="com.gkcreate.athenstour.ActProfile"
+            android:screenOrientation="portrait"
+            ></activity>
+
+        <activity
+            android:name="com.gkcreate.athenstour.ActMmmConfiguration"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>

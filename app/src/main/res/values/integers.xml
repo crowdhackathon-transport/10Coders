@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="id_poi_museums">0</integer>
+    <integer name="id_poi_sightseeing">1</integer>
+    <integer name="id_poi_beaches">2</integer>
+    <integer name="id_poi_theaters">3</integer>
+    <integer name="id_poi_artlife">4</integer>
+    <integer name="id_poi_food">5</integer>
+    <integer name="id_poi_souvlakia">6</integer>
+
+    <integer name="dashboard_myprofile">10</integer>
+    <integer name="dashboard_tours">11</integer>
+    <integer name="dashboard_places">12</integer>
+    <integer name="dashboard_near">13</integer>
+
+
+</resources>

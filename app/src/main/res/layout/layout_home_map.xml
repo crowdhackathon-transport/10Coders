@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <fragment
+        android:id="@+id/mapHome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.MapFragment"
+
+        />
+
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="80dp"
+        android:layout_height="480dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="All"
+            style="@style/CatButton"
+            android:onClick="showAll"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Theaters"
+            style="@style/CatButton"
+            android:onClick="onClickFood"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Museums"
+            style="@style/CatButton"
+            android:onClick="onClickMuseums"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Sight Seeing"
+            style="@style/CatButton"
+            android:onClick="onClickSight"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Beaches"
+            style="@style/CatButton"
+            android:onClick="onClickBeaches"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Food"
+            style="@style/CatButton"
+            android:onClick="onClickFood"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

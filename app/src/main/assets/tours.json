@@ -1,0 +1,68 @@
+{
+"data":[
+{
+	"name":"Athens Centre",
+	"centerLat":37.976820,
+	"centerLong":23.724538,
+	"steps":[
+		{
+			"index":1,
+			"name":"Monastiraki square",
+			"lat": 37.976820,
+			"lng": 23.724538,
+			"details":"",
+			"type":1
+		},
+	  {
+		"index":2,
+		"name":"Ermou street",
+		"lat": 37.976890,
+		"lng": 23.724467,
+		"details":"",
+		"type":1
+	  },
+	  {
+		"index":3,
+		"name":"Athinas street",
+		"lat": 37.980223,
+		"lng": 23.727034,
+		"details":"",
+		"type":1
+	  },
+	  {
+		"index":4,
+		"name":"Agias Irinis square",
+		"lat": 37.977076,
+		"lng": 23.726951,
+		"details":"",
+		"type":1
+	  },
+	  {
+		"index":5,
+		"name":"Kapnikarea church",
+		"lat": 37.976378,
+		"lng": 23.728621,
+		"details":"",
+		"type":1
+	  },
+	  {
+		"index":6,
+		"name":"Monastiraki to Syntagma via Metro",
+		"lat": 37.976820,
+		"lng": 23.724538,
+		"details":"",
+		"type":0
+	  },
+	  {
+		"index":7,
+		"name":"Syntagma square",
+		"lat": 37.975576,
+		"lng": 23.735769,
+		"details":"",
+		"type":1
+	  }
+	]
+}
+]
+
+}

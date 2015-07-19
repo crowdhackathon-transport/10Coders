@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutmain"
+    android:layout_width="match_parent"
+    android:layout_height="54dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+
+    <ImageView
+        android:id="@+id/listItemIcon"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/beach"
+        />
+
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|left"
+        android:layout_marginStart="10dp"
+        android:duplicateParentState="true"
+        android:layout_toRightOf="@+id/listItemIcon"
+        android:textColor="@color/grey_dark"
+        />
+
+    <TextView
+        android:id="@+id/text_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|right"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="10dp"
+        android:duplicateParentState="true"
+        android:layout_toRightOf="@+id/listItemIcon"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey_light"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

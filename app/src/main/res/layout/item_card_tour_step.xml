@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <View
+            android:id="@+id/backView"
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:background="@color/grey"
+            android:layout_marginLeft="30dp"
+            ></View>
+
+        <TextView
+            android:id="@+id/txtStepIndex"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/item_circle"
+            android:textColor="@color/white"
+            android:text="1"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            />
+
+        <TextView
+            android:id="@+id/txtStepName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/txtStepIndex"
+            android:textColor="@color/grey_dark"
+            android:text="Monastiraki"
+            android:textSize="24dp"
+            android:layout_margin="10dp"
+            />
+
+        <Button
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:background="@drawable/selector_circle"
+            android:text="view details"
+            android:textColor="@color/white"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:padding="2dp"
+            android:textSize="12dp"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

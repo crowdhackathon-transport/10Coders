@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/monast"
+            android:scaleType="centerCrop"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/orange"
+            >
+
+        <TextView
+            android:id="@+id/text_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+            android:text="Athens Centre"
+            android:gravity="center_vertical"
+            android:textColor="@android:color/white"
+            android:textSize="24dp"
+            android:padding="4dp"
+            />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/selector_grey"
+            android:text="Comments"
+            android:textColor="@android:color/white"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="8dp"
+            android:textSize="12dp"
+            android:elevation="2dp"
+            android:fadingEdgeLength="5dp"
+            />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/selector_grey"
+            android:text="View tour"
+            android:textColor="@android:color/white"
+            android:layout_alignParentRight="true"
+            android:layout_margin="8dp"
+            android:layout_above="@+id/btn1"
+            android:textSize="12dp"
+            android:elevation="2dp"
+            android:fadingEdgeLength="5dp"
+            />
+
+    </RelativeLayout>
+
+    </android.support.v7.widget.CardView>

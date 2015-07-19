@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<RelativeLayout android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtProfName"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textSize="18dp"
+        android:text="Kostas Akasoglou"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="116dp"
+        android:padding="2dp"
+        android:background="@color/blue"
+        android:gravity="center"
+        />
+
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/kostas"
+        android:layout_margin="16dp"/>
+
+    <LinearLayout
+        android:id="@+id/viewInterests"
+        android:layout_below="@+id/txtProfName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:background="@color/grey_light"
+            android:text="My Ineterests"
+            android:gravity="center_vertical"
+            android:paddingLeft="6dp"
+            android:textColor="@color/grey_dark"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Arts"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Sight Seeing"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Music"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Food"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/txtProfName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Swimming"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@color/orange"
+                android:textColor="@color/grey_dark"
+                android:text="Hiking"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/grey_dark"
+                android:text=""
+                android:layout_margin="4dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/grey_dark"
+                android:text=""
+                android:layout_margin="4dp"
+                />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/viewPoints"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_below="@+id/viewInterests"
+        android:background="@drawable/item_circle"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        >
+
+        <TextView
+            android:id="@+id/txtLabel1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:text="Available Travel Points"
+            android:textSize="20dp"
+            android:textColor="@color/grey_dark"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:text="186"
+            android:layout_below="@+id/txtLabel1"
+            android:textSize="50dp"
+            android:layout_centerHorizontal="true"
+            />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/viewLabels"
+        android:layout_below="@+id/viewPoints"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tours"
+            android:layout_margin="16dp"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tickets"
+            android:layout_margin="16dp"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Comments"
+            android:layout_margin="16dp"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/viewLabels"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="-20dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11"
+            android:layout_marginLeft="18dp"
+            android:layout_weight="1"
+            android:textSize="26dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="122"
+            android:layout_marginLeft="16dp"
+            android:layout_weight="1"
+            android:textSize="26dp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="64"
+            android:layout_marginLeft="16dp"
+            android:layout_weight="1"
+            android:textSize="26dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
+</ScrollView>
+</LinearLayout>

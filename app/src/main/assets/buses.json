@@ -1,0 +1,2524 @@
+{
+  "buses": [
+    {
+      "route_id": "Τ5-20",
+      "route_short_name": "Τ5",
+      "route_long_name": "ΣΥΝΤΑΓΜΑ - ΒΟΥΛΑ",
+      "route_desc": 0,
+      "route_type": 2,
+      "route_color": "3FFF19",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "Μ2-20",
+      "route_short_name": "Μ2",
+      "route_long_name": "ΑΝΘΟΥΠΟΛΗ - ΣΤ.ΕΛΛΗΝΙΚΟ",
+      "route_desc": 0,
+      "route_type": 1,
+      "route_color": "D81A13",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "Μ3-20",
+      "route_short_name": "Μ3",
+      "route_long_name": "ΑΙΓΑΛΕΩ - ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΕΡΟΔΡΟΜΙΟ",
+      "route_desc": 0,
+      "route_type": 1,
+      "route_color": "FFE4CA",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "Π2-20",
+      "route_short_name": "Π2",
+      "route_long_name": "ΜΑΓΟΥΛΑ(ΚΙΑΤΟ)-ΑΝΩ ΛΙΟΣΙΑ - ΑΕΡΟΔΡΟΜΙΟ",
+      "route_desc": 0,
+      "route_type": 2,
+      "route_color": "BA5E8D",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "Μ1-20",
+      "route_short_name": "Μ1",
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ",
+      "route_desc": 0,
+      "route_type": 1,
+      "route_color": "1C6F0B",
+      "route_text_color": "ffffff"
+    },
+    {
+      "route_id": "1-20",
+      "route_short_name": 1,
+      "route_long_name": "ΠΛΑΤ. ΑΤΤΙΚΗΣ - ΤΖΙΤΖΙΦΙΕΣ - ΜΟΣΧΑΤΟ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "2-20",
+      "route_short_name": 2,
+      "route_long_name": "ΑΝΩ ΚΥΨΕΛΗ - ΠΑΓΚΡΑΤΙ - ΚΑΙΣΑΡΙΑΝΗ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "3-20",
+      "route_short_name": 3,
+      "route_long_name": "Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΑΝΩ ΠΑΤΗΣΙΑ - ΓΗΡΟΚΟΜΕΙΟ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "4-20",
+      "route_short_name": 4,
+      "route_long_name": "ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΜΕΤΡΟ ΑΓ. ΙΩΑΝΝΗΣ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "5-20",
+      "route_short_name": 5,
+      "route_long_name": "ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "6-20",
+      "route_short_name": 6,
+      "route_long_name": "ΙΠΠΟΚΡΑΤΟΥΣ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΚΟΚ. ΜΥΛΟΣ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "10-20",
+      "route_short_name": 10,
+      "route_long_name": "ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "11-20",
+      "route_short_name": 11,
+      "route_long_name": "Α. ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "12-20",
+      "route_short_name": 12,
+      "route_long_name": "ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "13-20",
+      "route_short_name": 13,
+      "route_long_name": "ΛΑΜΠΡΙΝΗ - ΠΛ. ΚΑΝΙΓΓΟΣ - Ν. ΨΥΧΙΚΟ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "14-20",
+      "route_short_name": 14,
+      "route_long_name": "ΠΛ. ΠΑΠΑΔΙΑΜΑΝΤΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "15-20",
+      "route_short_name": 15,
+      "route_long_name": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "16-20",
+      "route_short_name": 16,
+      "route_long_name": "ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "17-20",
+      "route_short_name": 17,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΓΕΩΡΓΙΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "18-20",
+      "route_short_name": 18,
+      "route_long_name": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "19-20",
+      "route_short_name": 19,
+      "route_long_name": "ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "20-20",
+      "route_short_name": 20,
+      "route_long_name": "Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "21-20",
+      "route_short_name": 21,
+      "route_long_name": "ΝΙΚΑΙΑ - Π. ΡΑΛΛΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "24-20",
+      "route_short_name": 24,
+      "route_long_name": "ΠΕΤΡΟΥΠΟΛΗ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "25-20",
+      "route_short_name": 25,
+      "route_long_name": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 0,
+      "route_color": "F19A1E",
+      "route_text_color": 0
+    },
+    {
+      "route_id": "021-20",
+      "route_short_name": 21,
+      "route_long_name": "ΚΑΝΙΓΓΟΣ - ΓΚΥΖΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "022-20",
+      "route_short_name": 22,
+      "route_long_name": "Ν. ΚΥΨΕΛΗ - ΜΑΡΑΣΛΕΙΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "024-20",
+      "route_short_name": 24,
+      "route_long_name": "ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΣΤ. ΑΤΤΙΚΗΣ-ΣΤ. ΛΑΡΙΣΗΣ (ΚΥΚΛΙΚΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "025-20",
+      "route_short_name": 25,
+      "route_long_name": "ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦ. ΔΑΝΙΗΛ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "026-20",
+      "route_short_name": 26,
+      "route_long_name": "ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "027-20",
+      "route_short_name": 27,
+      "route_long_name": "ΙΠΠΟΚΡΑΤΟΥΣ - ΟΡΦΕΩΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "035-20",
+      "route_short_name": 35,
+      "route_long_name": "ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "036-20",
+      "route_short_name": 36,
+      "route_long_name": "ΣΤ.ΚΑΤΕΧΑΚΗ-ΣΤ.ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΚΥΚΛ.)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "040-20",
+      "route_short_name": 40,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "046-20",
+      "route_short_name": 46,
+      "route_long_name": "ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "049-20",
+      "route_short_name": 49,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "051-20",
+      "route_short_name": 51,
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΣΤΑΘ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "054-20",
+      "route_short_name": 54,
+      "route_long_name": "ΠΕΡΙΣΣΟΣ - ΑΚΑΔΗΜΙΑ - ΜΕΤΑΜΟΡΦΩΣΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "057-20",
+      "route_short_name": 57,
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΛΟΦΟΣ ΣΚΟΥΖΕ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "060-20",
+      "route_short_name": 60,
+      "route_long_name": "ΜΟΥΣΕΙΟ - ΑΚΑΔΗΜΙΑ - ΛΥΚΑΒΗΤΤΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "070-20",
+      "route_short_name": 70,
+      "route_long_name": "ΓΗΡΟΚΟΜΕΙΟ - ΑΡ.ΠΑΓΟΣ- ΔΙΚΑΣΤΗΡΙΑ ΕΥΕΛΠΙΔΩΝ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "100-20",
+      "route_short_name": 100,
+      "route_long_name": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΚΟΛΩΝΑΚΙ - ΑΓΟΡΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "101-20",
+      "route_short_name": 101,
+      "route_long_name": "ΕΛΛΗΝΙΚΟ - ΑΛΙΜΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "106-20",
+      "route_short_name": 106,
+      "route_long_name": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "109-20",
+      "route_short_name": 109,
+      "route_long_name": "ΑΝΩ ΚΑΛΑΜΑΚΙ - ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "112-20",
+      "route_short_name": 112,
+      "route_long_name": "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤΑΘ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "114-20",
+      "route_short_name": 114,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΚΑΒΟΥΡΙ - ΒΟΥΛΙΑΓΜΕΝΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "115-20",
+      "route_short_name": 115,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "116-20",
+      "route_short_name": 116,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΚΙΤΣΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "120-20",
+      "route_short_name": 120,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΒΑΡΗ (Πηγαδάκια) - ΠΡΟΑΣΤ. ΚΟΡΩΠΙΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "124-20",
+      "route_short_name": 124,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΕΛΛΗΝΙΚΟ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "125-20",
+      "route_short_name": 125,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΒΑΡΚΙΖΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "126-20",
+      "route_short_name": 126,
+      "route_long_name": "ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "128-20",
+      "route_short_name": 128,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "130-20",
+      "route_short_name": 130,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - Ν. ΣΜΥΡΝΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "131-20",
+      "route_short_name": 131,
+      "route_long_name": "ΣΤ. ΔΑΦΝΗΣ - ΑΜΑΞ/ΣΙΟ  ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "136-20",
+      "route_short_name": 136,
+      "route_long_name": "ΑΝΩ Ν. ΣΜΥΡΝΗ Β - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "137-20",
+      "route_short_name": 137,
+      "route_long_name": "ΑΝΩ Ν. ΣΜΥΡΝΗ Α - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "140-20",
+      "route_short_name": 140,
+      "route_long_name": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "141-20",
+      "route_short_name": 141,
+      "route_long_name": "ΣΤ. ΔΑΦΝΗΣ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "142-20",
+      "route_short_name": 142,
+      "route_long_name": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "149-20",
+      "route_short_name": 149,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΒΑΡΚΙΖΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "154-20",
+      "route_short_name": 154,
+      "route_long_name": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΓΛΥΦΑΔΑ (ΠΑΝΟΡΑΜΑ ΒΟΥΛΑΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "155-20",
+      "route_short_name": 155,
+      "route_long_name": "ΕΛΛΗΝΙΚΟ - ΣΤ. ΑΛΙΜΟΣ - ΑΓΙΑ ΜΑΡΙΝΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "162-20",
+      "route_short_name": 162,
+      "route_long_name": "ΒΟΥΛΑ - ΠΑΝΟΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "163-20",
+      "route_short_name": 163,
+      "route_long_name": "ΒΟΥΛΑ - ΠΗΓΑΔΑΚΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "170-20",
+      "route_short_name": 170,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΒΑΡΚΙΖΑ - ΒΑΡΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "171-20",
+      "route_short_name": 171,
+      "route_long_name": "ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΒΑΡΚΙΖΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "201-20",
+      "route_short_name": 201,
+      "route_long_name": "ΣΤΑΘ. ΔΑΦΝΗΣ - ΑΡΓΥΡΟΥΠΟΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "203-20",
+      "route_short_name": 203,
+      "route_long_name": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "204-20",
+      "route_short_name": 204,
+      "route_long_name": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "205-20",
+      "route_short_name": 205,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "206-20",
+      "route_short_name": 206,
+      "route_long_name": "ΑΓ. ΜΑΡΙΝΑ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "207-20",
+      "route_short_name": 207,
+      "route_long_name": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "209-20",
+      "route_short_name": 209,
+      "route_long_name": "ΜΕΤΑΜΟΡΦΩΣΗ - ΠΛΑΤΕΙΑ ΣΥΝΤΑΓΜΑΤΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "212-20",
+      "route_short_name": 212,
+      "route_long_name": "ΣΤ. ΜΕΤΡΟ ΔΑΦΝΗΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "217-20",
+      "route_short_name": 217,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "218-20",
+      "route_short_name": 218,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΥΜΗΤΤΟΣ - ΗΛΙΟΥΠΟΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "219-20",
+      "route_short_name": 219,
+      "route_long_name": "ΣΤ. ΚΑΛΛΙΘΕΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "220-20",
+      "route_short_name": 220,
+      "route_long_name": "ΑΝΩ ΙΛΙΣΙΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "221-20",
+      "route_short_name": 221,
+      "route_long_name": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "224-20",
+      "route_short_name": 224,
+      "route_long_name": "ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "227-20",
+      "route_short_name": 227,
+      "route_long_name": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "229-20",
+      "route_short_name": 229,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "230-20",
+      "route_short_name": 230,
+      "route_long_name": "ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "232-20",
+      "route_short_name": 232,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΥΜΗΤΤΟΣ - ΒΥΡΩΝΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "235-20",
+      "route_short_name": 235,
+      "route_long_name": "ΖΩΓΡΑΦΟΥ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "237-20",
+      "route_short_name": 237,
+      "route_long_name": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "242-20",
+      "route_short_name": 242,
+      "route_long_name": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ) ΣΧΟΛ.",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "250-20",
+      "route_short_name": 250,
+      "route_long_name": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΥ (ΚΥΚΛΙΚΗ) ΣΧ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "300-20",
+      "route_short_name": 300,
+      "route_long_name": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "301-20",
+      "route_short_name": 301,
+      "route_long_name": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "301Β-20",
+      "route_short_name": "301Β",
+      "route_long_name": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "302-20",
+      "route_short_name": 302,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "304-20",
+      "route_short_name": 304,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "305-20",
+      "route_short_name": 305,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "306-20",
+      "route_short_name": 306,
+      "route_long_name": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΑΡΓΗΤΤΟΣ - ΓΕΡΑΚΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "307-20",
+      "route_short_name": 307,
+      "route_long_name": "ΣΤ. Δ. ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΠΡΟΑΣΤ.ΚΟΡΩΠΙΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "308-20",
+      "route_short_name": 308,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "309-20",
+      "route_short_name": 309,
+      "route_long_name": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "314-20",
+      "route_short_name": 314,
+      "route_long_name": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΝΟΜ. ΑΝ. ΑΤΤΙΚΗΣ - ΠΑΛΛΗΝΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "316-20",
+      "route_short_name": 316,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "319-20",
+      "route_short_name": 319,
+      "route_long_name": "ΣΤ. ΜΕΤΡΟ ΔΟΥΚ. ΠΛΑΚ.- ΠΑΛΛΗΝΗ-ΕΚΠΤ. ΧΩΡΙΟ-ΣΠΑΤΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "322-20",
+      "route_short_name": 322,
+      "route_long_name": "ΑΓ. ΝΙΚΟΛΑΟΣ - ΒΡΑΥΡΩΝΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "323-20",
+      "route_short_name": 323,
+      "route_long_name": "ΒΡΑΥΡΩΝΑ - ΑΓ. ΝΙΚΟΛΑΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "324-20",
+      "route_short_name": 324,
+      "route_long_name": "ΑΝΘΟΥΣΑ - ΠΑΛΛΗΝΗ - ΚΑΝΤΖΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "330-20",
+      "route_short_name": 330,
+      "route_long_name": "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "402-20",
+      "route_short_name": 402,
+      "route_long_name": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "404-20",
+      "route_short_name": 404,
+      "route_long_name": "ΣΤ. ΕΘΝ.ΑΜΥΝΑΣ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "405-20",
+      "route_short_name": 405,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "406-20",
+      "route_short_name": 406,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜ. - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΣΤ. ΠΛΑΚΕΝΤΙΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "407-20",
+      "route_short_name": 407,
+      "route_long_name": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ-ΝΕΑ ΖΩΗ - ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "409-20",
+      "route_short_name": 409,
+      "route_long_name": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ-ΣΤ.ΚΑΤΕΧΑΚΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "410-20",
+      "route_short_name": 410,
+      "route_long_name": "Ο.Α.Κ.Α- ΑΝΩ ΜΕΛΙΣΣΙΑ  (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "411-20",
+      "route_short_name": 411,
+      "route_long_name": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "413-20",
+      "route_short_name": 413,
+      "route_long_name": "ΠΑΠΑΓΟΥ - ΣΤ. ΚΑΤΕΧΑΚΗ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "416-20",
+      "route_short_name": 416,
+      "route_long_name": "ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "418-20",
+      "route_short_name": 418,
+      "route_long_name": "ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "420-20",
+      "route_short_name": 420,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ (Μέσω ΚΗΦΙΣΟΥ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "421-20",
+      "route_short_name": 421,
+      "route_long_name": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "444-20",
+      "route_short_name": 444,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΓΑΛΑΤΣΙ - ΣΤ. Α. ΠΑΤΗΣΙΩΝ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "446-20",
+      "route_short_name": 446,
+      "route_long_name": "ΣΤΑΘ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (Μέσω ΠΙΚΠΑ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "447-20",
+      "route_short_name": 447,
+      "route_long_name": "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "450-20",
+      "route_short_name": 450,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "451-20",
+      "route_short_name": 451,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "460-20",
+      "route_short_name": 460,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "461-20",
+      "route_short_name": 461,
+      "route_long_name": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "501-20",
+      "route_short_name": 501,
+      "route_long_name": "ΠΕΥΚΗ - ΜΑΡΟΥΣΙ  Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "503-20",
+      "route_short_name": 503,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "504-20",
+      "route_short_name": 504,
+      "route_long_name": "ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "507-20",
+      "route_short_name": 507,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΡΟΔΟΠΟΛΗ - ΣΤΑΜΑΤΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "508-20",
+      "route_short_name": 508,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "509-20",
+      "route_short_name": 509,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΚΡΥΟΝΕΡΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "522-20",
+      "route_short_name": 522,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "523-20",
+      "route_short_name": 523,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Β (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "524-20",
+      "route_short_name": 524,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΠΟΛΙΤΕΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "526-20",
+      "route_short_name": 526,
+      "route_long_name": "ΣΤ. ΚΗΦΙΣΙΑΣ - ΚΕΦΑΛΑΡΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "527-20",
+      "route_short_name": 527,
+      "route_long_name": "ΠΕΥΚΗ - ΜΑΡΟΥΣΙ Β (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "530-20",
+      "route_short_name": 530,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "535-20",
+      "route_short_name": 535,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "536-20",
+      "route_short_name": 536,
+      "route_long_name": "ΖΗΡΙΝΕΙΟ - ΔΙΟΝΥΣΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "537-20",
+      "route_short_name": 537,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "541-20",
+      "route_short_name": 541,
+      "route_long_name": "ΜΕΤΑΜΟΡΦΩΣΗ - ΣΤΑΘ. ΑΜΑΡΟΥΣΙΟΥ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "543-20",
+      "route_short_name": 543,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣΟΚ. ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "550-20",
+      "route_short_name": 550,
+      "route_long_name": "Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "560-20",
+      "route_short_name": 560,
+      "route_long_name": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "602-20",
+      "route_short_name": 602,
+      "route_long_name": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "604-20",
+      "route_short_name": 604,
+      "route_long_name": "ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΩΝ - ΣΤ. ΜΕΤΑΜΟΡΦΩΣΗΣ - ΝΕΑ ΙΩΝΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "605-20",
+      "route_short_name": 605,
+      "route_long_name": "ΑΝΩ ΠΑΤΗΣΙΑ - ΠΕΡΙΣΣΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "608-20",
+      "route_short_name": 608,
+      "route_long_name": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "610-20",
+      "route_short_name": 610,
+      "route_long_name": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "622-20",
+      "route_short_name": 622,
+      "route_long_name": "ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "640-20",
+      "route_short_name": 640,
+      "route_long_name": "ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "642-20",
+      "route_short_name": 642,
+      "route_long_name": "ΗΡΑΚΛΕΙΟ - ΑΓ.ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "651-20",
+      "route_short_name": 651,
+      "route_long_name": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "653-20",
+      "route_short_name": 653,
+      "route_long_name": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "700-20",
+      "route_short_name": 700,
+      "route_long_name": "ΑΓΙΑ ΤΡΙΑΔΑ ΠΕΤΡΟΥΠΟΛΗ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "701-20",
+      "route_short_name": 701,
+      "route_long_name": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "703-20",
+      "route_short_name": 703,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ-ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (Μέσω ΘΗΒΩΝ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "704-20",
+      "route_short_name": 704,
+      "route_long_name": "ΚΑΜΑΤΕΡΟ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "709-20",
+      "route_short_name": 709,
+      "route_long_name": "ΤΟΠΙΚΟ ΔΡΟΣΟΥΠΟΛΗΣ Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "711-20",
+      "route_short_name": 711,
+      "route_long_name": "ΖΩΦΡΙΑ - ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "712-20",
+      "route_short_name": 712,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α.ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "719-20",
+      "route_short_name": 719,
+      "route_long_name": "ΚΗΠΟΥΠΟΛΗ - ΠΑΛΑΤΙΑΝΗ - ΣΤ. ΛΑΡΙΣΗΣ(ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "721-20",
+      "route_short_name": 721,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "723-20",
+      "route_short_name": 723,
+      "route_long_name": "ΦΥΛΗ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "724-20",
+      "route_short_name": 724,
+      "route_long_name": "ΘΡΑΚ/ΔΟΝΕΣ - ΑΧΑΡΝΑΙ - Ν. ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "727-20",
+      "route_short_name": 727,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΜΕΣΟΝΥΧΙ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "728-20",
+      "route_short_name": 728,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΠΛΑΤΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "729-20",
+      "route_short_name": 729,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "730-20",
+      "route_short_name": 730,
+      "route_long_name": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "731-20",
+      "route_short_name": 731,
+      "route_long_name": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ- ΑΤΤΙΚΟ ΝΟΣ-ΔΑΣΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "732-20",
+      "route_short_name": 732,
+      "route_long_name": "ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ - ΖΩΟΔ. ΠΗΓΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "733-20",
+      "route_short_name": 733,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΑΜΑΞ. ΑΝΩ ΛΙΟΣΙΩΝ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "735-20",
+      "route_short_name": 735,
+      "route_long_name": "ΖΕΦΥΡΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΩΝ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "747-20",
+      "route_short_name": 747,
+      "route_long_name": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "748-20",
+      "route_short_name": 748,
+      "route_long_name": "ΧΡΥΣΟΥΠΟΛΗ-ΑΝΘΟΥΠΟΛΗ-ΣΤ.ΠΕΡΙΣΤΕΡΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "749-20",
+      "route_short_name": 749,
+      "route_long_name": "ΑΝΩ ΛΙΟΣΙΑ - ΟΙΚΙΣΜΟΣ ΓΕΝΝΗΜΑΤΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "750-20",
+      "route_short_name": 750,
+      "route_long_name": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "752-20",
+      "route_short_name": 752,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "753-20",
+      "route_short_name": 753,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΑΓ. ΠΕΤΡΟΣ - ΑΓ. ΙΩΑΝΝΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "800-20",
+      "route_short_name": 800,
+      "route_long_name": "ΝΙΚΑΙΑ - ΠΕΙΡΑΙΑΣ (ΠΛ. ΑΝΑΛΗΨΕΩΣ) (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "803-20",
+      "route_short_name": 803,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ Β (Μέσω ΙΕΡΑΣ ΟΔΟΥ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "805-20",
+      "route_short_name": 805,
+      "route_long_name": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "806-20",
+      "route_short_name": 806,
+      "route_long_name": "ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "807-20",
+      "route_short_name": 807,
+      "route_long_name": "ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "809-20",
+      "route_short_name": 809,
+      "route_long_name": "ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "810-20",
+      "route_short_name": 810,
+      "route_long_name": "ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "811-20",
+      "route_short_name": 811,
+      "route_long_name": "ΧΑΪΔΑΡΙ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "813-20",
+      "route_short_name": 813,
+      "route_long_name": "ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "814-20",
+      "route_short_name": 814,
+      "route_long_name": "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "815-20",
+      "route_short_name": 815,
+      "route_long_name": "ΓΟΥΔΗ - ΤΑΥΡΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "816-20",
+      "route_short_name": 816,
+      "route_long_name": "ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "817-20",
+      "route_short_name": 817,
+      "route_long_name": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "818-20",
+      "route_short_name": 818,
+      "route_long_name": "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "819-20",
+      "route_short_name": 819,
+      "route_long_name": "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "820-20",
+      "route_short_name": 820,
+      "route_long_name": "ΚΕΡΑΤΣΙΝΙ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΤΟΠΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "821-20",
+      "route_short_name": 821,
+      "route_long_name": "ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "822-20",
+      "route_short_name": 822,
+      "route_long_name": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "823-20",
+      "route_short_name": 823,
+      "route_long_name": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "824-20",
+      "route_short_name": 824,
+      "route_long_name": "ΑΓ. ΑΝΤΩΝΙΟΣ Α - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "825-20",
+      "route_short_name": 825,
+      "route_long_name": "ΑΓ. ΑΝΤΩΝΙΟΣ Β - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "826-20",
+      "route_short_name": 826,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "827-20",
+      "route_short_name": 827,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - Γ΄ ΝΕΚΡΟΤ. - ΑΣΠΡΑ ΧΩΜΑΤΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "828-20",
+      "route_short_name": 828,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΣΠΡΑ ΧΩΜΑΤΑ - Γ΄ ΝΕΚΡΟΤ. (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "829-20",
+      "route_short_name": 829,
+      "route_long_name": "Τ.Ε.Ι  ΑΘΗΝΑΣ-ΣΤ.ΜΕΤΡΟ ΑΙΓΑΛΕΩ-Τ.Ε.Ι. ΠΕΙΡΑΙΑ (ΚΥΚ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "830-20",
+      "route_short_name": 830,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΒΑΡΒΑΡΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "831-20",
+      "route_short_name": 831,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "832-20",
+      "route_short_name": 832,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΕΥΓΕΝΕΙΑ - ΧΑΡΑΥΓΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "833-20",
+      "route_short_name": 833,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΧΑΡΑΥΓΗ - ΕΥΓΕΝΕΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "837-20",
+      "route_short_name": 837,
+      "route_long_name": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "838-20",
+      "route_short_name": 838,
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "843-20",
+      "route_short_name": 843,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "845-20",
+      "route_short_name": 845,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω ΘΗΒΩΝ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "846-20",
+      "route_short_name": 846,
+      "route_long_name": "ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "847-20",
+      "route_short_name": 847,
+      "route_long_name": "ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "848-20",
+      "route_short_name": 848,
+      "route_long_name": "ΝΕΑΠΟΛΗ - ΧΑΡΑΥΓΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "852-20",
+      "route_short_name": 852,
+      "route_long_name": "ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "855-20",
+      "route_short_name": 855,
+      "route_long_name": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "856-20",
+      "route_short_name": 856,
+      "route_long_name": "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "859-20",
+      "route_short_name": 859,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΔΕΞΑΜΕΝΕΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "860-20",
+      "route_short_name": 860,
+      "route_long_name": "Π. ΦΑΛΗΡΟ-ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ-ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "862-20",
+      "route_short_name": 862,
+      "route_long_name": "ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "863-20",
+      "route_short_name": 863,
+      "route_long_name": "ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "864-20",
+      "route_short_name": 864,
+      "route_long_name": "ΕΛΕΥΣΙΝΑ - ΒΙΟΜΗΧΑΝΙΚΗ ΖΩΝΗ ΜΑΓΟΥΛΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "865-20",
+      "route_short_name": 865,
+      "route_long_name": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΜΑΝΔΡΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "866-20",
+      "route_short_name": 866,
+      "route_long_name": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "871-20",
+      "route_short_name": 871,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω Λ. ΣΧΙΣΤΟΥ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "875-20",
+      "route_short_name": 875,
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - Ν. ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "878-20",
+      "route_short_name": 878,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "879-20",
+      "route_short_name": 879,
+      "route_long_name": "ΑΧΑΡΝΑΙ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΕΛΕΥΣΙΝΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "881-20",
+      "route_short_name": 881,
+      "route_long_name": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "891-20",
+      "route_short_name": 891,
+      "route_long_name": "ΑΙΓΑΛΕΩ - ΠΕΡΙΣΤΕΡΙ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "892-20",
+      "route_short_name": 892,
+      "route_long_name": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "904-20",
+      "route_short_name": 904,
+      "route_long_name": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΣΤ. ΠΕΙΡΑΙΑ - ΦΡΕΑΤΤΥΔΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "906-20",
+      "route_short_name": 906,
+      "route_long_name": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "909-20",
+      "route_short_name": 909,
+      "route_long_name": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "910-20",
+      "route_short_name": 910,
+      "route_long_name": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "911-20",
+      "route_short_name": 911,
+      "route_long_name": "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "914-20",
+      "route_short_name": 914,
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "915-20",
+      "route_short_name": 915,
+      "route_long_name": "ΛΟΦΟΣ ΒΩΚΟΥ- ΠΡ.ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α1-20",
+      "route_short_name": "Α1",
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α10-20",
+      "route_short_name": "Α10",
+      "route_long_name": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α11-20",
+      "route_short_name": "Α11",
+      "route_long_name": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α13-20",
+      "route_short_name": "Α13",
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α15-20",
+      "route_short_name": "Α15",
+      "route_long_name": "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α16-20",
+      "route_short_name": "Α16",
+      "route_long_name": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΕΛΕΥΣΙΝΑ (Μέσω ΙΕΡΑΣ ΟΔΟΥ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α2-20",
+      "route_short_name": "Α2",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (Μέσω Λ. ΑΜΦΙΘΕΑΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α3-20",
+      "route_short_name": "Α3",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ (ΕΥΡΥΑΛΗ) (Μέσω ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α4-20",
+      "route_short_name": "Α4",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ - ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α5-20",
+      "route_short_name": "Α5",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α7-20",
+      "route_short_name": "Α7",
+      "route_long_name": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛ.ΠΛΑΤΑΝΟΥ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Α8-20",
+      "route_short_name": "Α8",
+      "route_long_name": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β1-20",
+      "route_short_name": "Β1",
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β10-20",
+      "route_short_name": "Β10",
+      "route_long_name": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (Μέσω ΑΡΙΣΤΟΤΕΛΟΥΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β11-20",
+      "route_short_name": "Β11",
+      "route_long_name": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β12-20",
+      "route_short_name": "Β12",
+      "route_long_name": "ΜΑΡΝΗ - ΑΝΩ ΛΙΟΣΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β15-20",
+      "route_short_name": "Β15",
+      "route_long_name": "ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β16-20",
+      "route_short_name": "Β16",
+      "route_long_name": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΕΛΕΥΣΙΝΑ (Μέσω  Λ. ΑΘΗΝΩΝ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β18-20",
+      "route_short_name": "Β18",
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω Π. ΡΑΛΛΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β2-20",
+      "route_short_name": "Β2",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ - ΑΓΙΟΣ ΚΟΣΜΑΣ (Μέσω ΠΑΡΑΛΙΑΚΗΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β3-20",
+      "route_short_name": "Β3",
+      "route_long_name": "ΑΚΑΔΗΜΙΑ-ΓΛΥΦΑΔΑ(ΚΑΡΑΧΑΛΙΟΥ)(Μέσω Λ.ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β5-20",
+      "route_short_name": "Β5",
+      "route_long_name": "ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β8-20",
+      "route_short_name": "Β8",
+      "route_long_name": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΜΕΤΑΜΟΡΦΩΣΗ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Β9-20",
+      "route_short_name": "Β9",
+      "route_long_name": "ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Γ10-20",
+      "route_short_name": "Γ10",
+      "route_long_name": "ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΠΛ. ΒΑΘΗ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Γ12-20",
+      "route_short_name": "Γ12",
+      "route_long_name": "ΚΑΜΑΤΕΡΟ - ΑΓ.ΝΙΚΟΛΑΟΣ-ΙΛΙΟΝ - ΠΟΛ/ΧΝΕΙΟ(ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Γ16-20",
+      "route_short_name": "Γ16",
+      "route_long_name": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΑΣΠΡΟΠΥΡΓΟΣ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Γ18-20",
+      "route_short_name": "Γ18",
+      "route_long_name": "ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω ΓΡ. ΛΑΜΠΡΑΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Γ9-20",
+      "route_short_name": "Γ9",
+      "route_long_name": "ΧΑΛΚΟΚΟΝΔΥΛΗ - Κ. ΜΥΛΟΣ - ΑΧΑΡΝΑΙ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Ε14-20",
+      "route_short_name": "Ε14",
+      "route_long_name": "ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α - ΥΠ.ΠΑΙΔΕΙΑΣ (EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Ε15-20",
+      "route_short_name": "Ε15",
+      "route_long_name": "ΣΤ. ΛΑΡΙΣΗΣ - ΤΕΙ ΑΘΗΝΩΝ (ΣΧΟΛΙΚΗ  EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Ε22-20",
+      "route_short_name": "Ε22",
+      "route_long_name": "ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΣΑΡΩΝΙΔΑ (ΕΧPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Ε90-20",
+      "route_short_name": "Ε90",
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ14-20",
+      "route_short_name": "Χ14",
+      "route_long_name": "ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ63-20",
+      "route_short_name": "Χ63",
+      "route_long_name": "ΜΑΝΔΡΑ - ΟΙΚ. ΤΙΤΑΝ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ93-20",
+      "route_short_name": "Χ93",
+      "route_long_name": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ95-20",
+      "route_short_name": "Χ95",
+      "route_long_name": "ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ96-20",
+      "route_short_name": "Χ96",
+      "route_long_name": "ΠΕΙΡΑΙΑΣ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "Χ97-20",
+      "route_short_name": "Χ97",
+      "route_long_name": "ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+      "route_desc": 0,
+      "route_type": 3,
+      "route_color": "153CE0",
+      "route_text_color": "FFFFFF"
+    }
+  ]
+}

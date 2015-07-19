@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:background="@drawable/selector_circle"
+            android:layout_margin="8dp"
+            android:tag="@integer/dashboard_myprofile"
+            android:onClick="onClickMyProfile"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Profile"
+                android:textColor="@color/white"
+                android:textSize="26dp"
+                android:layout_centerInParent="true"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:background="@drawable/selector_circle"
+            android:layout_margin="8dp"
+            android:tag="@integer/dashboard_tours"
+            android:onClick="onClickTours"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tours"
+                android:textColor="@color/white"
+                android:textSize="26dp"
+                android:layout_centerInParent="true"
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:background="@drawable/selector_circle"
+            android:layout_margin="8dp"
+            android:tag="@integer/dashboard_places"
+            android:onClick="onClickPlaces"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interesting places"
+                android:textColor="@color/white"
+                android:textSize="26dp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:background="@drawable/selector_circle"
+            android:layout_margin="8dp"
+            android:tag="@integer/dashboard_near"
+            android:onClick="onClickNear"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What's near?"
+                android:textColor="@color/white"
+                android:textSize="26dp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/logo_only_small"
+            android:onClick="showMmmConfigurationScreen"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>
